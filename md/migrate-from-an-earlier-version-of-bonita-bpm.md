@@ -66,6 +66,7 @@ The following are not migrated automatically:
 * Custom connectors, actor filers, data types: These might continue to work in the new version, but should be tested, depending on your custom code.
 * Custom pages: These might continue to work in the new version, but should be tested depending on your custom code.
 * Custom reports: These might continue to work in the new version, but should be tested depending on your custom code.
+* REST API Extensions: These might continue to work in the new version, but should be tested depending on your custom code.
 
 When the script has finished,
 you need to complete the migration by unzipping and configuring a bundle for the new version.
